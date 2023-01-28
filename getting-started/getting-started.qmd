@@ -1,6 +1,6 @@
 ---
 title: "getting-started"
-author: "ADD NAME HERE"
+author: "Junru Wu"
 format: html
 editor: source
 ---
