@@ -1,19 +1,19 @@
 ---
-title: "SDS 410: Project Proposal 1"
-author: NAME HERE
-date: DATE HERE
+title: "SDS 410: Project Proposal 2"
+author: Junru Wu
+date: 2023-01-28
 format: pdf
 editor: source
 ---
 
 ## Sponsor
 
-(100 words) In your own words, provide a brief description of the project sponsor organization here. 
+BlueBonnet Data's mission is to use data and analysis to provide insights for progressive campaign strategies. They regularly recruit student volunteers to work with data related to progressive campaigns, voter turnouts to extract insights about political trends. With the goal of "turning more red states into blue states," BlueBonnet Data helps political candidates and the Democratic party to target the right voter group in their campaigns, decide the most appropriate outreach strategy, and invest funds efficiently for progressive causes. 
 
 ## Scope
 
-(100-200 words) In your own words, describe the problem that will be addressed in this project, Also, provide a broad overview of how you might approach it. 
+Similar to my proposal for the first project, I plan to divide the problem into three parts: problem definition, empirical methods selection, and review and feedback. I intend to investigate the question proposed by the client by examining the relationship between the political leaning of each state and race and ethnicity, percentage of different income groups, gender, age, and education level. Yet I'm also open to exploring the relationship between states' political leaning and other potential variables. For empirical methods, I plan to use data visualization and regression analysis. As the client asked to examine the political trend in each state, I plan to make voter turnout portraits using variables such as gender, age, ethnicity, income level, and education level. 
 
 ## Vision
 
-(100-200 words) In  your own words, describe what might result from this project. Be sure to describe both physical outputs *and the potential broader impacts of those outputs.* (e.g. how will they address problems/better society?) In this section, also describe, how your unique skills and interests can contribute to project success.  
+For physical output, I expect data visualizations for voter turnout portraits, as well as graphs informing the client of trends and changes in voter turnout in the past few years. The team may also provide regression analysis to investigate trends, potentially time series or fixed effects can be used in the model, depending on which variables are included. For potential broader impact, the analysis provided by the team can inform BlueBonnet Data to allocate campaign resources more effectively. Also, the analysis can serve as an additional resource for policymakers in the Democratic party to target the right audience or voter group in policy transformations.

@@ -1,19 +1,23 @@
 ---
 title: "SDS 410: Project Proposal 1"
-author: NAME HERE
-date: DATE HERE
+author: Junru Wu
+date: 2023-01-28
 format: pdf
 editor: source
 ---
 
 ## Sponsor
 
-(100 words) In your own words, provide a brief description of the project sponsor organization here. 
+Cleveland Federal Savings Bank is a banker's bank. They primarily serve cash services to companies and financial institutions. They also provide services of supervision. For instance, they supervise four of the US's largest bank and savings and loan holding companies, along with several other financial holding companies and state-characterized member banks. For the range of services provided in terms of locations, the Cleveland Fed serves the Fourth Federal Reserve District, comprising Ohio, western Pennsylvania, eastern Kentucky, and the northern panhandle of West Virginia. 
 
 ## Scope
 
-(100-200 words) In your own words, describe the problem that will be addressed in this project, Also, provide a broad overview of how you might approach it. 
+(100-200 words) 
+
+The main problem proposed by the client is to find out the relationship between certain types of lending and climate and weather conditions in the area. I plan to address the problem by three main steps. First, define the variables in the research question. For instance, which variables in the database are often used to represent different types of lending, and how are climate and weather conditions measured in available data. Second, I plan to pick a model to investigate the relationship, potentially including difference-in-differences, fixed effects, or time series. Third, I plan to review the model limitations and improve based on the clients' feedback on whether they're appropriate for the type of analysis they want. 
 
 ## Vision
+For physical output, I expect data visualizations for relationship exploration and the results from regression analysis. The output should be similar to a group project version of an economics seminar paper, with complete sections for key variable definition, empirical methods and model selection, results, analysis and discussion. For potential broader impact, the analysis would provide a first-glance insight into how climate change affected lending services in difference industries, a potential indicator for the health of the national economy. More broadly, the results could serve as a piece of evidence for future policy recommendations. 
 
-(100-200 words) In  your own words, describe what might result from this project. Be sure to describe both physical outputs *and the potential broader impacts of those outputs.* (e.g. how will they address problems/better society?) In this section, also describe, how your unique skills and interests can contribute to project success.  
+
+
