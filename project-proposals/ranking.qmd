@@ -1,6 +1,6 @@
 ---
 title: "Project Rankings"
-author: NAME HERE
+author: Junru Wu
 date: DATE HERE
 format: pdf
 editor: visual
